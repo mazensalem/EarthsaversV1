@@ -1,0 +1,474 @@
+{
+    "Global": {
+        "Land": {
+            "section": {
+                "Beginers": [
+                    {
+                        "title": "Part 1 : overview of Ecosystem services",
+                        "url": "https://youtu.be/DZfvTNYyzX8",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 2 : Remote sensing techniques for ecosystem assessments",
+                        "url": "https://youtu.be/V0axHKpyYrw",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 3: Case study examples of the use of EO in ecosystem services and natural capital accounting",
+                        "url": "https://youtu.be/DZw0V7wxIQA",
+                        "state": false
+                    },
+                    {
+                        "title": "Monitoring Aquatic Vegetation with Remote Sensing Part 1",
+                        "url": "https://youtu.be/V_XfiGzA9dA",
+                        "state": false
+                    },
+                    {
+                        "title": "Monitoring Aquatic Vegetation with Remote Sensing Part 2",
+                        "url": "http://appliedsciences.nasa.gov/sites/default/files/2022-06/AquaticVeg_Part2.pdf",
+                        "state": false
+                    },
+                    {
+                        "title": "Monitoring Aquatic Vegetation with Remote Sensing Part 3",
+                        "url": "https://youtu.be/huw-ML5deg0",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 1: Overview of Hyperspectral Data",
+                        "url": "https://youtu.be/FjKVptgr3uU",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 2: Hyperspectral Data for Land Management",
+                        "url": "https://youtu.be/x7l6n7njVPo",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 3: Hyperspectral Data for Coastal and Ocean Systems",
+                        "url": "https://youtu.be/L4sGAgQB0a4",
+                        "state": false
+                    },
+                    {
+                        "title": "Remote Sensing for Mangroves in Support of the UN Sustainable Development Goals Part 1",
+                        "url": "https://youtu.be/eFn00Q77HDY",
+                        "state": false
+                    },
+                    {
+                        "title": "Remote Sensing for Mangroves in Support of the UN Sustainable Development Goals Part 2",
+                        "url": "https://youtu.be/5Venmt7t6BI",
+                        "state": false
+                    },
+                    {
+                        "title": "Remote Sensing for Mangroves in Support of the UN Sustainable Development Goals Part 3",
+                        "url": "https://youtu.be/1eXQw8_Wy8k",
+                        "state": false
+                    },
+                    {
+                        "title": "Part One: Overview of Coastal Ecosystems and Remote Sensing",
+                        "url": "https://youtu.be/Q2MDct5CoTQ",
+                        "state": false
+                    },
+                    {
+                        "title": "Part Two: Penetration of Light in the Water Column",
+                        "url": "https://youtu.be/2pfoEFnsyEQ",
+                        "state": false
+                    },
+                    {
+                        "title": "Part Three: Remote Sensing of Shorelines",
+                        "url": "https://youtu.be/hJBrbbK5Nyk",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 1: Overview of Phenology and Remote Sensing",
+                        "url": "https://youtu.be/2-c0tIZCOj4",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 2: Scales of Phenology",
+                        "url": "https://youtu.be/0B_Zp9z-grw",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 3: Utility and Advantage of Multi-Scale Analysis",
+                        "url": "https://youtu.be/3WuW69A2uDc",
+                        "state": false
+                    },
+                    {
+                        "title": "Part One: Introduction to Spatial Data and Policies for Biodiversity",
+                        "url": "https://youtu.be/Iw6kTO5KTn8",
+                        "state": false
+                    },
+                    {
+                        "title": "Part Two: UN Biodiversity Lab: Introduction and Training",
+                        "url": "https://appliedsciences.nasa.gov/join-mission/training/english/arset-using-un-biodiversity-lab-monitor-pulse-planet",
+                        "state": false
+                    },
+                    {
+                        "title": "Part Three: How are Countries Using Spatial Data to Support Conservation of Nature?",
+                        "url": "https://youtu.be/Mx2SNZaKlfA",
+                        "state": false
+                    },
+                    {
+                        "title": "ECOSTRESS",
+                        "url": "https://youtu.be/pw4XRDK-gTw",
+                        "state": false
+                    },
+                    {
+                        "title": "Session 1: Introduction to Mapping, GIS, and Drones",
+                        "url": "https://youtu.be/FwhvAPoWq4Y",
+                        "state": false
+                    },
+                    {
+                        "title": "Session 2: Introduction to Remote Sensing for Land Management",
+                        "url": "https://youtu.be/hyJ_ZG3qrPY",
+                        "state": false
+                    },
+                    {
+                        "title": "Session 3: Applications for Sustainable Land Management Decisions: Early Warning & Alert Systems",
+                        "url": "https://youtu.be/p85oa4mHPVM",
+                        "state": false
+                    },
+                    {
+                        "title": "Session One: Remote Sensing for Conservation",
+                        "url": "https://youtu.be/aWAqge0E1cM",
+                        "state": false
+                    },
+                    {
+                        "title": "Session Two: Remote Sensing for Biodiversity",
+                        "url": "https://youtu.be/70Zkm4Pg_ZE",
+                        "state": false
+                    },
+                    {
+                        "title": "Session 1: Fundamentals of Remote Sensing",
+                        "url": "https://attendee.gotowebinar.com/register/5274323579896872193",
+                        "state": false
+                    },
+                    {
+                        "title": "Session 1A: NASA's Earth Observing Fleet",
+                        "url": "https://attendee.gotowebinar.com/register/409098996280142095",
+                        "state": false
+                    },
+                    {
+                        "title": "Session 2A: Satellites, Sensors, Data and Tools for Land Management and Wildfire Applications",
+                        "url": "https://youtu.be/qiqUAlJK4vI",
+                        "state": false
+                    },
+                    {
+                        "title": "Session 2B: Satellites, Sensors, and Earth Systems Models for Water Resources Management",
+                        "url": "https://youtu.be/MISLC--HNxo",
+                        "state": false
+                    },
+                    {
+                        "title": "Session 2C: Fundamentals of Aquatic Remote Sensing",
+                        "url": "https://youtu.be/1TBtJ8pTANQ",
+                        "state": false
+                    },
+                    {
+                        "title": "Session One: Overview of Remote Sensing",
+                        "url": "https://ac.arc.nasa.gov/conservationweek1/",
+                        "state": false
+                    },
+                    {
+                        "title": "Session Two: Platforms and Sensors for Conservation",
+                        "url": "https://ac.arc.nasa.gov/p4eg50u31qs/",
+                        "state": false
+                    },
+                    {
+                        "title": "Session Three: Habitat Monitoring",
+                        "url": "https://ac.arc.nasa.gov/p2f76wbr1d7/",
+                        "state": false
+                    },
+                    {
+                        "title": "Session Four: Animal Movement",
+                        "url": "https://ac.arc.nasa.gov/p4pshmbvap6/",
+                        "state": false
+                    },
+                    {
+                        "title": "Session Five: Near Real-Time Data, Featuring Guest Speaker: Karyn Tabor",
+                        "url": "https://ac.arc.nasa.gov/p25zenvjsq7/",
+                        "state": false
+                    },
+                    {
+                        "title": "Part One: Overview of Ecological Forecasting",
+                        "url": "https://youtu.be/arfqOCOuf9E",
+                        "state": false
+                    },
+                    {
+                        "title": "Part Two: Overview of Climate Science and Data",
+                        "url": "https://youtu.be/76lzLPUjH7M",
+                        "state": false
+                    },
+                    {
+                        "title": "Part Three: Overview of Scenario Planning",
+                        "url": "https://youtu.be/Hfi9OaYtygU",
+                        "state": false
+                    },
+                    {
+                        "title": "Part Four: Overview of Species Distribution and State-And-Transition Simulation Modeling",
+                        "url": "https://youtu.be/jJqXYQuvs5M",
+                        "state": false
+                    }
+                ],
+                "Intermediate": [
+                    {
+                        "title": "Part 1 - Using UN Biodiversity Lab to Support Country-Led Action on Biodiversity and Sustainable Development",
+                        "url": "https://youtu.be/PnkJPMstgco",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 2 - Technical Training: Exploring the UN Biodiversity Lab Public Platform",
+                        "url": "https://youtu.be/hTdiwiLgCGc",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 3 - Technical Training: Exploring UN Biodiversity Lab Secure Workspaces",
+                        "url": "https://youtu.be/_FnVu_Wxc3o",
+                        "state": false
+                    },
+                    {
+                        "title": "UN Biodiversity Lab Advanced Training 1 (Advanced Lab): Mastering the UNBL Public Platform",
+                        "url": "https://youtu.be/snrAjX_OydQ",
+                        "state": false
+                    },
+                    {
+                        "title": "UN Biodiversity Lab Advanced Training 2 (Advanced Lab): Mastering UNBL Secure Workspaces",
+                        "url": "https://youtu.be/NMlyeVdzzjc",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 1: Overview of Species Distribution Models (SDMs)",
+                        "url": "https://youtu.be/KhZ1Gk9eQFI",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 2: Using Wallace to Model Species Niches and Distributions",
+                        "url": "https://youtu.be/VfXg3UsnufU",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 3: Additional SDM Tools and Techniques, ASP Projects, and Summary",
+                        "url": "https://youtu.be/ZMJ-bTXtqHw",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 1: Google Earth Engine Basics and General Applications",
+                        "url": "https://youtu.be/-BwqcjgHh6A",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 2: Land Cover Classification and Accuracy Assessment in Google Earth Engine",
+                        "url": "https://youtu.be/JFvxudueT_k",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 3: Time Series Analysis and Change Detection in Google Earth Engine",
+                        "url": "https://youtu.be/RqVselZ5hKM",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 1: Satellites, Sensors, and Models for Climate and Hydrologic-Based Applications (Pre-Fire)",
+                        "url": "https://youtu.be/6AOyvADNOPk",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 2: Satellites, Sensors, and Models for Climate and Hydrologic-Based Applications (Pre-Fire)",
+                        "url": "https://youtu.be/JnYJ2AFMKQo",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 3: Satellites and Sensors for Active Fire Monitoring (During-Fire)",
+                        "url": "https://youtu.be/AYehqG1j508",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 4: Smoke Modeling and Forecasting",
+                        "url": "https://youtu.be/hx-m1XMJlfc",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 5: Satellites, Sensors, and Earth System Models for Climate and Hydrology-Based Applications (Post-Fire)",
+                        "url": "https://youtu.be/gQAm3IwinNI",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 6: Satellites and Sensors for Vegetation-Based Wildfire Applications (Post-Fire)",
+                        "url": "https://youtu.be/oG-pNayqaEo",
+                        "state": false
+                    },
+                    {
+                        "title": "Part One: Review of Aquatic Remote Sensing & Freshwater Habitats",
+                        "url": "https://youtu.be/gLjcfxX-2OQ",
+                        "state": false
+                    },
+                    {
+                        "title": "Part Two: Overview of the Riverscape Analysis Project (RAP)",
+                        "url": "https://youtu.be/x9BwaazUumc",
+                        "state": false
+                    },
+                    {
+                        "title": "Part Three: Overview of the Freshwater Health Index (FHI)",
+                        "url": "https://youtu.be/UMLlhO8y9CI",
+                        "state": false
+                    },
+                    {
+                        "title": "Session One: Overview of SDG 15",
+                        "url": "http://appliedsciences.nasa.gov/sites/default/files/2020-11/SDG15_Part1.pdf",
+                        "state": false
+                    },
+                    {
+                        "title": "Session Two: SDG Target 15.1",
+                        "url": "http://appliedsciences.nasa.gov/sites/default/files/2020-11/SDG15_Part2.pdf",
+                        "state": false
+                    },
+                    {
+                        "title": "Session Three: SDG Target 15.3",
+                        "url": "http://appliedsciences.nasa.gov/sites/default/files/2020-11/SDG15_Part3.pdf",
+                        "state": false
+                    },
+                    {
+                        "title": "Part One: Overview of Satellite Remote Sensing of Aquatic Environments",
+                        "url": "https://youtu.be/kyfPIj27MR8",
+                        "state": false
+                    },
+                    {
+                        "title": "Part Two: Platforms and Sensors for Ocean Observations, Data Access, and Processing Tools",
+                        "url": "https://youtu.be/IPJ7GM5YVP0",
+                        "state": false
+                    },
+                    {
+                        "title": "Part Three: Animal Movement",
+                        "url": "https://youtu.be/nELx8r1iy1Q",
+                        "state": false
+                    },
+                    {
+                        "title": "Part One: Overview of Carbon Monitoring for Terrestrial Ecosystems",
+                        "url": "https://youtu.be/oYfgAmntdcw",
+                        "state": false
+                    },
+                    {
+                        "title": "Part Two: Sensors and Products Available for Terrestrial Ecosystems",
+                        "url": "https://youtu.be/62-3V0nXfY0",
+                        "state": false
+                    },
+                    {
+                        "title": "Part Four: Accuracy Assessment",
+                        "url": "https://youtu.be/C2Mdeuiqi-U",
+                        "state": false
+                    },
+                    {
+                        "title": "Part Five: Guidance, Reporting, and Verification",
+                        "url": "https://youtu.be/f681DNstmPg",
+                        "state": false
+                    }
+                ],
+                "Advanced": [
+                    {
+                        "title": "Part 1: Pre-Fire Mapping",
+                        "url": "https://youtu.be/yQY41ViDPKU",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 2: Post-Fire Mapping",
+                        "url": "https://youtu.be/poWjCS3bxb0",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 1: Time Series Analysis of Forest Change",
+                        "url": "https://youtu.be/KitbOq7ARNQ",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 2: Land Cover Classification with Radar and Optical Data",
+                        "url": "https://youtu.be/raXA3gnb94Q",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 3: Mangrove Mapping",
+                        "url": "https://youtu.be/vaBEHALn-js",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 4: Forest Stand Height (with Guest Speaker Paul Siqueria)",
+                        "url": "https://youtu.be/RROJ_4Ud78g",
+                        "state": false
+                    },
+                    {
+                        "title": "Remote Sensing for Monitoring Land Degradation and Sustainable Cities SDGs Part 1",
+                        "url": "https://youtu.be/b_2tfsVE2mY",
+                        "state": false
+                    },
+                    {
+                        "title": "Remote Sensing for Monitoring Land Degradation and Sustainable Cities SDGs Part 2",
+                        "url": "https://youtu.be/tG4vxF1IP6w",
+                        "state": false
+                    },
+                    {
+                        "title": "Remote Sensing for Monitoring Land Degradation and Sustainable Cities SDGs Part 3",
+                        "url": "https://youtu.be/1eXzBn6vNmc",
+                        "state": false
+                    },
+                    {
+                        "title": "Session One: Introduction to Time Series Analysis & AppEEARS",
+                        "url": "https://youtu.be/KJTyMDyvBik",
+                        "state": false
+                    },
+                    {
+                        "title": "Session Two: LandTrendr Overview & Applications",
+                        "url": "https://youtu.be/5BZvjVUfBG0",
+                        "state": false
+                    },
+                    {
+                        "title": "Change Detection for Land Cover Mapping Part 1",
+                        "url": "https://youtu.be/du0fPyiZrpk",
+                        "state": false
+                    },
+                    {
+                        "title": "Change Detection for Land Cover Mapping Part 2",
+                        "url": "https://youtu.be/-IOiwRJPtlY",
+                        "state": false
+                    },
+                    {
+                        "title": "Techniques for Wildfire Detection and Monitoring Part 1",
+                        "url": "https://youtu.be/n3UCO2BoALg",
+                        "state": false
+                    },
+                    {
+                        "title": "Techniques for Wildfire Detection and Monitoring Part 2",
+                        "url": "https://youtu.be/Gd005hKVrPs",
+                        "state": false
+                    },
+                    {
+                        "title": "Part 1: Introduction to Accuracy Assessments",
+                        "url": "https://youtu.be/jxeUy2JZYB8",
+                        "state": false
+                    },
+                    {
+                        "title": "Session 2: Conducting Unsupervised and Supervised Land Cover Classifications",
+                        "url": "https://youtu.be/LtM4X5J4OuI",
+                        "state": false
+                    },
+                    {
+                        "title": "Remote Sensing-Based Drought Monitoring",
+                        "url": "https://youtu.be/ro2UBNgjOh4",
+                        "state": false
+                    },
+                    {
+                        "title": "Drought Monitoring Analysis and Application",
+                        "url": "https://youtu.be/o-NBWXiyC3k",
+                        "state": false
+                    },
+                    {
+                        "title": "Part One: Introduction to Land Cover Classification and QGIS",
+                        "url": "https://youtu.be/ZtSlipKIH8E",
+                        "state": false
+                    },
+                    {
+                        "title": "Part Two: Improving a Supervised Land Cover Classification",
+                        "url": "https://youtu.be/6Tv3QxGpMro",
+                        "state": false
+                    }
+                ]
+            }
+        }
+    }
+}

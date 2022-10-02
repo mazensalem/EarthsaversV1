@@ -1,0 +1,848 @@
+{
+    "Global": {
+        "Agriculture": {
+            "Description": "",
+            "section": {
+                "Beginers": [
+                    {
+                        "title": "google",
+                        "url": "https://google.com",
+                        "state": false
+                    },
+                    {
+                        "title": "facebook",
+                        "url": "https://facebook.com",
+                        "state": false
+                    },
+                    {
+                        "title": "youtube",
+                        "url": "https://youtube.com",
+                        "state": true
+                    }
+                ],
+                "Intermediate": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Advanced": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ]
+            }
+        },
+        "Climate": {
+            "Description": "",
+            "section": {
+                "Beginers": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Intermediate": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Advanced": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ]
+            }
+        },
+        "Disaster": {
+            "Description": "",
+            "section": {
+                "Beginers": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Intermediate": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Advanced": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ]
+            }
+        },
+        "Land": {
+            "Description": "",
+            "section": {
+                "Beginers": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Intermediate": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Advanced": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ]
+            }
+        },
+        "Air Quality": {
+            "Description": "",
+            "section": {
+                "Beginers": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Intermediate": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Advanced": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ]
+            }
+        }
+    },
+    "Egypt": {
+        "Agriculture": {
+            "Description": "",
+            "section": {
+                "Beginers": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Intermediate": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Advanced": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ]
+            }
+        },
+        "Climate": {
+            "Description": "",
+            "section": {
+                "Beginers": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Intermediate": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Advanced": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ]
+            }
+        },
+        "Disaster": {
+            "Description": "",
+            "section": {
+                "Beginers": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Intermediate": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Advanced": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ]
+            }
+        },
+        "Land": {
+            "Description": "",
+            "section": {
+                "Beginers": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Intermediate": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Advanced": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ]
+            }
+        },
+        "Air Quality": {
+            "Description": "",
+            "section": {
+                "Beginers": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Intermediate": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Advanced": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ]
+            }
+        }
+    },
+    "USA": {
+        "Agriculture": {
+            "Description": "",
+            "section": {
+                "Beginers": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Intermediate": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Advanced": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ]
+            }
+        },
+        "Climate": {
+            "Description": "",
+            "section": {
+                "Beginers": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Intermediate": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Advanced": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ]
+            }
+        },
+        "Disaster": {
+            "Description": "",
+            "section": {
+                "Beginers": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Intermediate": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Advanced": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ]
+            }
+        },
+        "Land": {
+            "Description": "",
+            "section": {
+                "Beginers": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Intermediate": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Advanced": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ]
+            }
+        },
+        "Air Quality": {
+            "Description": "",
+            "section": {
+                "Beginers": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Intermediate": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ],
+                "Advanced": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    },
+                    {
+                        "title": "",
+                        "url": "",
+                        "state": false
+                    }
+                ]
+            }
+        }
+    }
+}
